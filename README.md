@@ -1,4 +1,4 @@
-# modalWindow
+# ModalWindow
 
 This application demonstrates working with modal pop-ups using JavaScript and CSS classes. It allows users to open and close a modal window by interacting with various elements such as buttons and the keyboard. <br>
 
